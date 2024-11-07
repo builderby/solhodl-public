@@ -5,9 +5,9 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/956942021400576060?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/solhodl)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SolHODL?style=social)](https://twitter.com/SolHODL)
-[![GitHub Stars](https://img.shields.io/github/stars/SolHODL/discord-bot?style=social)](https://github.com/SolHODL/discord-bot)
+[![Discord](https://img.shields.io/discord/956942021400576060?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/HaMkGSy5fC)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SolHODL?style=social)](https://twitter.com/SolHODL_)
+[![GitHub Stars](https://img.shields.io/github/stars/SolHODL/discord-bot?style=social)](https://github.com/builderby/solhodl-public)
 
 </div>
 
