@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Discord](https://img.shields.io/discord/956942021400576060?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/HaMkGSy5fC)
+[![Discord](https://img.shields.io/discord/956942021400576060?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/ugmM9Dw7EU)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SolHODL?style=social)](https://twitter.com/SolHODL_)
 [![GitHub Stars](https://img.shields.io/github/stars/SolHODL/discord-bot?style=social)](https://github.com/builderby/solhodl-public)
 
@@ -147,7 +147,7 @@
    Visit: https://solhodl.com/invite
    ```
 
-2. **Server Setup**
+### 2. Server Setup
    ```bash
    /setup
    # Follow the interactive setup wizard to configure your server in discord
@@ -162,7 +162,7 @@
 
 ## 🤝 Support
 
-- [Discord Support](https://discord.gg/HaMkGSy5fC)
+- [Discord Support](https://discord.gg/ugmM9Dw7EU)
 - [Email Support](mailto:support@solhodl.com)
 - [Twitter](https://twitter.com/SolHODL_)
 
@@ -172,7 +172,7 @@
 
 ### 🌟 Transform Your Solana Community Today
 
-[Get Started](https://solhodl.com) | [Join Discord](https://discord.gg/HaMkGSy5fC) | [Documentation](https://docs.solhodl.com)
+[Get Started](https://solhodl.com) | [Join Discord](https://discord.gg/ugmM9Dw7EU) | [Documentation](https://docs.solhodl.com)
 
 </div>
 
