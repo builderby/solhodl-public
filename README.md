@@ -1,7 +1,6 @@
- // Start of Selection
-# 🌟 SolHODL - The Ultimate Solana Community Management Suite
+# 🌟 SolHODL - Advanced Solana Community Management Platform
 
-> _Transform your Discord server into a thriving Web3 ecosystem with enterprise-grade automation and engagement tools_
+> Enterprise-grade Discord bot and web platform for Solana NFT & Token communities
 
 <div align="center">
 
@@ -13,129 +12,135 @@
 
 ---
 
-## 🎯 Community Engagement Features
+## 🎯 Core Features
 
-### 🤝 Automated Community Building
+### 🔐 Advanced Holder Verification
+- **Multi-Wallet Support**
+  - Secure wallet signature verification
+  - Support for multiple Solana wallets
+  - Real-time balance & NFT ownership checks
+  - Token-gated access management
 
-- **Smart Channel Management**
-  - Dedicated verification channels
-  - Token-gated chat rooms
-  - Automated announcements
-  - Community highlights
-  - Role-specific forums
+### 📊 Asset Tracking & Analytics
+- **Real-time Monitoring**
+  - Live floor price updates
+  - Sales tracking across marketplaces
+  - Holder statistics & analytics
+  - Token balance monitoring
+  - Custom price alerts
 
-### 🎮 Interactive Features
+### 🎮 Community Management
+- **Role Management**
+  - Dynamic role assignment based on holdings
+  - Token threshold verification
+  - Multi-collection support
+  - Automated role updates
 
-- **Community Activities**
-  - Token-gated giveaways
-  - Holder-exclusive events
+### 🎁 Engagement Tools
+- **Interactive Features**
+  - Holder-only giveaways
+  - Token-gated channels
   - Community polls
-  - Automated raffles
-  - Merit-based rewards
+  - Automated announcements
+  - Customizable commands
 
-### 📊 Community Analytics
+## 💻 Web Dashboard
 
-- **Engagement Metrics**
-  - Active holder tracking
-  - Community growth statistics
-  - Participation analytics
-  - Retention metrics
-  - Whale wallet monitoring
+### 🔧 Server Management
+- **Comprehensive Controls**
+  - Server setup wizard
+  - Channel configuration
+  - Role management
+  - Collection tracking
+  - Token monitoring
+
+### 📈 Analytics Dashboard
+- **Detailed Insights**
+  - Holder statistics
+  - Verification tracking
+  - Community growth metrics
+  - Token distribution data
+  - Activity monitoring
 
 ## 🚀 Technical Features
 
-### 💎 Advanced Market Intelligence
+### 💎 Solana Integration
+- **Blockchain Features**
+  - SPL Token support
+  - NFT collection tracking
+  - Multi-program compatibility
+  - Real-time transaction monitoring
 
-- **Real-time Tracking**
-  - Live floor price updates
-  - Volume analytics
-  - Market trend analysis
-  - Whale movement alerts
-  - Custom price notifications
-
-### 🔐 Enterprise Verification System
-
-- **Secure Authentication**
-  - Multi-wallet support
-  - Token threshold verification
-  - NFT ownership validation
-  - Role-based access control
-  - Automated role updates
-
-### 🎨 Customization & Branding
-
-- **White-Label Solutions**
-  - Custom embed themes
-  - Branded verification flows
-  - Personalized bot responses
-  - Custom command prefixes
-  - Role color schemes
-
-## 💫 Subscription Benefits
-
-### 🌟 Pro Plan Features ($20 USDC/month)
-
-- Multiple collection tracking
-- Advanced sales notifications
-- Enhanced role management
-- Basic holder staking
-- Community analytics
-
-### 🚀 Degen Plan Features ($40 USDC/month)
-
-- Unlimited collections
-- Advanced analytics
-- Custom branding
-- Priority support
-- Early access features
-
-## 🔒 Security & Administration
-
-### 🛡️ Enterprise Security
-
-- **Advanced Protection**
+### 🔒 Security
+- **Enterprise Protection**
+  - Secure wallet verification
   - Rate limiting
-  - Anti-spam measures
+  - DDoS protection
   - Audit logging
   - Automated backups
-  - DDoS protection
 
-### 👑 Admin Controls
+## 💫 Subscription Plans
 
-- **Server Management**
-  - Role hierarchy
-  - Permission management
-  - Activity monitoring
-  - Emergency protocols
-  - Automated moderation
+### 🌟 Free Plan
+- 1 collection
+- Basic analytics
+- Core features
 
-## 🎁 Community Success Stories
+### 🌟 Pro Plan ($20 USDC/month)
+- Up to 3 collections
+- Basic analytics
+- Standard support
+- Core features
 
-### 💫 Testimonials
+### 🚀 Enterprise Plan ($40 USDC/month)
+- Unlimited collections
+- Advanced analytics
+- Priority support
+- Custom features
+- White-label options
 
-- NFT projects seeing 300% engagement increase
-- Token communities growing 5x faster
-- DAOs streamlining governance
-- Projects saving 20+ hours/week on management
+### 🌟 Lifetime Plan (One-time payment of $500 USDC)
+- One-time payment
+- All features
+- No recurring fees
+- Priority support
+- Custom features
+- Voting rights for future development
 
-## 🔮 Future Innovations
+## 🛠️ Setup & Configuration
 
-### 🌈 Upcoming Features
+1. **Bot Installation**
+   ```bash
+   # Invite bot to your server
+   Visit: https://solhodl.com/invite
+   ```
 
-- **Web3 Integration**
-  - DAO governance tools
-  - On-chain voting systems
-  - Discord-native wallets
-  - Cross-chain verification
-  - AI-powered analytics
+2. **Server Setup**
+   ```bash
+   /setup
+   # Follow the interactive setup wizard to configure your server in discord
+   ```
+
+
+## 📚 Documentation
+
+- [Full Documentation](https://docs.solhodl.com)
+- [API Reference](https://docs.solhodl.com/api)
+- [Setup Guide](https://docs.solhodl.com/setup)
+
+## 🤝 Support
+
+- [Discord Support](https://discord.gg/HaMkGSy5fC)
+- [Email Support](mailto:support@solhodl.com)
+- [Twitter](https://twitter.com/SolHODL_)
 
 ---
 
 <div align="center">
 
-### 🌟 Join the Future of Web3 Communities
+### 🌟 Transform Your Solana Community Today
 
-[Start Your Journey](https://solhodl.com) | [Join Our Discord](https://discord.gg/HaMkGSy5fC) | [Read the Docs](https://docs.solhodl.com)
+[Get Started](https://solhodl.com) | [Join Discord](https://discord.gg/HaMkGSy5fC) | [Documentation](https://docs.solhodl.com)
 
 </div>
 
@@ -143,10 +148,6 @@
 
 <div align="center">
 
-❤️ **Built By Builderby** | 🐻 **More Bears 2024**
+❤️ **Built with love by Builderby** | 🐻 **More Bears 2024**
 
 </div>
-
----
-
-_SolHODL is built by community leaders for community leaders. Join us in shaping the future of Web3 community management!_
