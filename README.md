@@ -135,7 +135,7 @@
 
 ### 🌟 Join the Future of Web3 Communities
 
-[Start Your Journey](https://solhodl.xyz) | [Join Our Discord](https://discord.gg/solhodl) | [Read the Docs](https://docs.solhodl.xyz)
+[Start Your Journey](https://solhodl.com) | [Join Our Discord](https://discord.gg/HaMkGSy5fC) | [Read the Docs](https://docs.solhodl.com)
 
 </div>
 
